@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddarthareddyb
 - 👀 I’m interested in Travelling
 - 🌱 I’m currently learning XML/XSD/XSL
-- 📫 How to reach me 
+- 📫 How to reach me http://www.linkedin.com/in/siddarthareddyb
 
 <!---
 siddarthareddyb/siddarthareddyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
